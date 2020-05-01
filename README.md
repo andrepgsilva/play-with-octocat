@@ -1,4 +1,5 @@
 # play-with-octocat
+Search repositories using the Github API.
 
 ## Project setup
 ```
